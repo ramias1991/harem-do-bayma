@@ -1,0 +1,44 @@
+- MODELOS
+id
+nome
+email
+idade
+estado
+cidade
+tipo (loira/morena/ruiva....)
+biotipo (magra/malhada/....)
+altura
+peso
+manequim
+pes
+cabelo
+olhos
+celular
+whatsapp_sms (sim/não)
+horario
+faz_o_perfil
+acompanha
+atendo_em
+cache
+aceita_cartao (credito/debito)
+periodo
+idiomas
+especialidades
+permite_fumar
+viaja
+descricao
+
+- IMAGENS
+id
+id_modelo
+imagem
+tipo
+
+- VIDEOS
+id
+id_modelo
+video
+tipo
+
+- 
+

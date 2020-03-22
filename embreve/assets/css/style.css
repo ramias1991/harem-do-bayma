@@ -1,0 +1,42 @@
+#body-main{
+    height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    margin-top: 55px;
+    background-color: #151212;
+}
+
+#adm-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mg-top {
+    margin-top: 55px;
+}
+
+.mg-top-add-model{
+    margin-top: 70px;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.a-hover:hover {
+    background-color: #999;
+}
+
+.title-modelo{
+    color: #f58623;
+}
+
+.title-modelo-italic{
+    font-style: italic;
+}
+
+.carousel-legend {
+    color:#000;
+    background-color: red;
+}

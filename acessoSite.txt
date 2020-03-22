@@ -1,0 +1,16 @@
+elboaugusto@hotmail.com
+senha: elboedeus21061995.!@#
+
+acesso FTP
+haremd57
+senha: elboedeus21061995.!@#
+
+email
+contato@haremdobayma.com
+senha: elboedeus21061995.!@#
+
+banco de dados
+dbname: haremd57_do_elbo
+usuario: haremd57_elbo
+senha: elboedeus21061995.!@#
+

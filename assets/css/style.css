@@ -1,0 +1,99 @@
+#body-main{
+    height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    margin-top: 55px;
+}
+
+.modalInicio{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 9999;
+}
+
+.caixaModalInicio{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 90%;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 10000;
+}
+
+.caixaModalInicio .card {
+    opacity: 0.8;
+}
+
+.modalInicioFoto{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 9999;
+}
+
+.caixaModalFoto{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 70%;
+    z-index: 10000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#adm-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mg-top {
+    margin-top: 55px;
+}
+
+.mg-bottom-contato{
+    margin-bottom: 110px;
+}
+
+.mg-top-add-model{
+    margin-top: 70px;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.a-hover:hover {
+    background-color: #999;
+}
+
+.title-modelo{
+    color: #f58623;
+}
+
+.title-modelo-italic{
+    font-style: italic;
+}
+
+.bg-black{
+    background-color: #05040E !important;
+}
+
+.carousel-legend {
+    color:#000;
+    background-color: rgba(105,105,105, 0.7);
+    display: block;
+    text-align: center;
+}
